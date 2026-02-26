@@ -1,5 +1,18 @@
-## Hi there 👋, I'm Syaihan
 
+![Syaihan](img/github-header-banner%20(3).png)
+I'm a passionate **Beginner Developer** who loves learning new technologies and building small projects to solve daily problems.
+
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="250">
+
+### 🚀 About Me
+- 🌱 I’m currently learning: **React.js and Tailwind CSS**
+- 🔭 I’m working on: **Personal Portfolio & To-do List App**
+- 🎯 Goal: **To become a Junior Fullstack Developer**
+- 📫 How to reach me: [daroen662@gmail.com](mailto:daroen662@gmail.com)
+
+### 🛠 Tech Stack
+- **Languages:** HTML, CSS, JavaScript (Learning)
+- **Tools:** VS Code, Git, GitHub
 <!--
 **daroen662/daroen662** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,9 +28,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning:
-    ✅ Javascript
-    ✅ Python
-    ...
 
-![Hello](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTRwcGJ0ajJqbDdkOWVvdXI3ODF0cDNlNWU3OWQ2MWt2N3N0YTd4MyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/vFKqnCdLPNOKc/giphy.gif)
