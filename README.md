@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning Javascript
-  ✅✅✅
+- 🌱 I’m currently learning:
+    ✅ Javascript
+    ✅ Python
+    ...
 
 ![Hello](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTRwcGJ0ajJqbDdkOWVvdXI3ODF0cDNlNWU3OWQ2MWt2N3N0YTd4MyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/vFKqnCdLPNOKc/giphy.gif)
